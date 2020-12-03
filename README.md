@@ -11,7 +11,7 @@
 **#3** (Not num pad) – will show the sky view of the scene\
 **Left Mouse Button & mouse movement** – will rotate the point of view\
 **Right Mouse Button & mouse movement** – will pan the scene\
-**Scroll Wheel** – will zoom in and out\
+**Scroll Wheel** – will zoom in and out
 
 ### Movement/Animation
 **Up Arrow** – will open the garage door\
@@ -21,7 +21,7 @@
 **r** – will reset the character and basketball\
 **w** – character will space jump with basketball\
 **s** -character will descend with basketball\
-**Middle Mouse Button & mouse movement** – will move basketball hoop in a non-linear path\
+**Middle Mouse Button & mouse movement** – will move basketball hoop in a non-linear path
 
 ### Help/Close
 **h** - will display original pop-up window that displays buttons and functionality\

@@ -5,7 +5,7 @@
 
 ### View
 **Space Bar** - will show the back of the house or the opposite view of which you are currently looking\
-Space 2x - again will return you to the original view of the scene\
+**Space 2x** - again will return you to the original view of the scene\
 **#1** (Not num pad) – will show the first side view of the scene\
 **#2** (Not num pad) – will show the second view of the side of the scene\
 **#3** (Not num pad) – will show the sky view of the scene\
